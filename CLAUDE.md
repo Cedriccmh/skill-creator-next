@@ -2,6 +2,9 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## IMPORTANT: First Principles
+The ./BRIEF.md file, maintained by humans, describes the high-level purpose of the skill-creator-next repository. Always reflect this purpose when building or improving skill-creator-next.
+
 ## Project Overview
 
 This repository is **skill-creator-next**, an enhanced skill creation framework that combines:
